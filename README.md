@@ -1,3 +1,3 @@
-# new
+# sample-repo
 
 sample description
